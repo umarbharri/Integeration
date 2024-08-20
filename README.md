@@ -1,1 +1,1 @@
-Integeration Using Firebase
+Authentication Using Firebase
